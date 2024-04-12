@@ -1,0 +1,5 @@
+*.csv
+.pynb_checkpoints/*
+documents/
+.ipynb_checkpoints/
+faiss_index/

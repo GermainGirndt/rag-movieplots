@@ -1,6 +1,8 @@
-pandas
-faiss-cpu
-langchain
-sentence_transformers
-gpt4all
-chromadb
+pandas==1.5.3
+faiss-cpu==1.8.0
+langchain==0.1.15
+sentence_transformers==2.6.1
+gpt4all==2.4.0
+chromadb==0.4.24
+unstructured==0.13.2
+SQLAlchemy==2.0.1 
